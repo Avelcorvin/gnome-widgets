@@ -1,0 +1,7 @@
+{
+  "uuid": "dev-servers@viltal",
+  "name": "Dev Servers",
+  "description": "Local listening servers and Docker containers in the top panel.",
+  "shell-version": ["45", "46", "47", "48"],
+  "version": 1
+}

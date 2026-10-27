@@ -1,0 +1,7 @@
+{
+  "uuid": "load-monitor@viltal",
+  "name": "Load Monitor",
+  "description": "CPU and NVIDIA GPU load in the top panel.",
+  "shell-version": ["45", "46", "47", "48"],
+  "version": 1
+}
